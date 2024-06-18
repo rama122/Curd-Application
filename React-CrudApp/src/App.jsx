@@ -10,7 +10,7 @@ function App() {
     <div >
       <BrowserRouter>
         <Routes>
-          <Route exact path='' element={<Create />} />
+          <Route exact path='/create' element={<Create />} />
           <Route  exact path='/read' element={<Read />} />
           <Route exact path='/updata' element={<Updata />} />
         </Routes>
