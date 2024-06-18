@@ -1,2 +1,2 @@
 ﻿# Curd-Application
-# http://localhost:5173/create
+# http://localhost:5173
